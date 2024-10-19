@@ -44,7 +44,7 @@ The Rastrigin function is a non-convex function used as a performance test probl
 
 $$f(x) = An + \sum_{i=1}^{n} \left[ x_i^2 - A \cos(2\pi x_i) \right]$$
 
-where \(A = 10\), \(x_i \in [-5.12, 5.12]\).
+where $A = 10$, $x_i \in [-5.12, 5.12]$.
 
 ### Sphere Function
 
