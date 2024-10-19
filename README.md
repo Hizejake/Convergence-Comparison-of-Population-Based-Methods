@@ -83,6 +83,14 @@ The following table summarizes the results of the PSO and DE algorithms on the b
 
 In general, the Differential Evolution (DE) algorithm achieved better results compared to the Particle Swarm Optimization (PSO) algorithm. While both algorithms were able to find the global best positions for the benchmark functions, DE consistently found positions closer to the global optimum with lower function values. This highlights the effectiveness of DE in exploring the search space and the importance of parameter tuning for achieving optimal results.
 
+## Animations
+
+To better visualize the convergence behavior of the PSO and DE algorithms, we have included animations showing the evolution of the swarm and population over iterations for each benchmark function. These animations provide a clear illustration of how each algorithm explores the search space and converges to the global minimum.
+
+#### Rastrigin Function
+![PSO Rastrigin](Particle Swarm Optimization/particle_swarm_rastrigin.gif)
+![DE Rastrigin] (Differential Evolution/differential_evolution.gif)
+
 ## References
 
 - Kennedy, J., & Eberhart, R. (1995). Particle swarm optimization. In Proceedings of ICNN'95 - International Conference on Neural Networks (Vol. 4, pp. 1942-1948).
